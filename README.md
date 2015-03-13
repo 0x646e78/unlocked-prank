@@ -1,8 +1,6 @@
 # unlocked-prank
 A harmless prank for those poor buggers who leave their Linux or Mac machines unlocked.
 
-** not yet finished, just here as a work in progress **
-
 ## Use
 
 I wrote this as a quick drive-by implant.  
@@ -18,6 +16,6 @@ The URL shortener is used as the Yubikey has a limit of 64 characters in it's st
 `https://raw.githubusercontent.com/auraltension/unlocked-prank/master/implant.sh`
 
 Open a shell, plug in, press the button, remove, walk away.  The script will determine whether the system is Mac or
-linux, and then the shell used by the user and implant a fun prank into their shell rc.
+linux, and implant a fun prank into their shell rc.  Presently only supports bash on Linux.
 
-For your piece of mind I recommend checking my implant.sh, and probably forking and using your own copy as you probably don't want to trust my script being executed on other peoples machines.
+For your piece of mind I recommend checking my implant.sh, forking and using your own copy as you probably don't want to trust my script being executed on other peoples machines.
