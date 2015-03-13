@@ -7,7 +7,7 @@ A harmless prank for those poor buggers who leave their Linux or Mac machines un
 
 I wrote this as a quick drive-by implant.  
 
-Those around me often leave their systems unlocked.  Messing around manually is time consuminga nd thus risky.
+Those around me often leave their systems unlocked.  Messing around manually is time consuming and thus risky.
 
 As I have a spare Yubikey I decided to utilise a slot with a static string.  This has a single stored command of:
 
