@@ -11,7 +11,7 @@ Those around me often leave their systems unlocked.  Messing around manually is 
 
 As I have a spare Yubikey I decided to utilise a slot with a static string.  This has a single stored command of:
 
-` curl <url-shortened> | bash`
+` curl -L <url-shortened> | bash`
 
 The URL shortener is used as the Yubikey has a limit of 64 characters in it's static password mode.  The shortened URL should point to
 
