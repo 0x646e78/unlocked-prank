@@ -16,6 +16,6 @@ The URL shortener is used as the Yubikey has a limit of 64 characters in it's st
 `https://raw.githubusercontent.com/auraltension/unlocked-prank/master/implant.sh`
 
 Open a shell, plug in, press the button, remove, walk away.  The script will determine whether the system is Mac or
-linux, and implant a fun prank into their shell rc.  Presently only supports bash on Linux.
+Linux, and implant a fun prank into their shell rc.  Presently only supports bash.
 
 For your piece of mind I recommend checking my implant.sh, forking and using your own copy as you probably don't want to trust my script being executed on other peoples machines.
