@@ -19,3 +19,5 @@ The URL shortener is used as the Yubikey has a limit of 64 characters in it's st
 
 Open a shell, plug in, press the button, remove, walk away.  The script will determine whether the system is Mac or
 linux, and then the shell used by the user and implant a fun prank into their shell rc.
+
+For your piece of mind I recommend checking my implant.sh, and probably forking and using your own copy as you probably don't want to trust my script being executed on other peoples machines.
