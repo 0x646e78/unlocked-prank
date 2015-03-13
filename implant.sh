@@ -11,3 +11,5 @@ elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
 else
   echo "You got off lucky!. Remember to lock your pc."
 fi
+
+clear
