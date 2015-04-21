@@ -1,5 +1,7 @@
 # unlocked-prank
-A harmless prank for those poor buggers who leave their Linux or Mac machines unlocked.
+A harmless prank for those poor buggers who leave their machines unlocked.
+
+Tested on MacOSX and Linux running bash.  Only applicable to users who work in shells.
 
 ## Use
 
